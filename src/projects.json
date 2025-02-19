@@ -1,6 +1,26 @@
 {
     "projects": [
         {
+            "name": "Full-stack project: E-Commerce Store",
+            "image": "https://res.cloudinary.com/drfuvmlbn/image/upload/v1739991831/grc5bvn2pbkwdfxerdsa.jpg",
+            "title": "Full-stack project: E-Commerce Store",
+            "body": "Jolly Kid is a full-stack e-commerce application for children's clothing, built with React, Node.js, and MongoDB. Our goal was to create a classic online store where users can browse products, filter by category, add items to their shopping cart, register, log in, and complete purchases via Stripe. ",
+            "tags": [
+                "React",
+                "React Router",
+                "Zustand",
+                "useState",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Authentication",
+                "User Management",
+                "Payment Integration"
+            ],
+            "netlify": "https://jollykid.netlify.app",
+            "github": "https://github.com/EmelieNyberg/project-final-e-commerce/tree/main"
+        },
+        {
             "name": "Project Express API",
             "image": "https://images.pexels.com/photos/10816120/pexels-photo-10816120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "title": "Project Express API",
